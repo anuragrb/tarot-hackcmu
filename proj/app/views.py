@@ -200,9 +200,3 @@ def update_scores():
                 u_update.weight =  results[username][0]
                 u_update.score = results[username][1]
                 u_update.save()
-
-
-
-
-
-
